@@ -10,7 +10,7 @@
 **      $Id: nrutil.c,v 1.2 1998/02/19 16:31:35 kanungo Exp kanungo $
 */
 
-#include <malloc/malloc.h>
+#include <malloc.h>
 #include <stdio.h>
 static char rcsid[] = "$Id: nrutil.c,v 1.2 1998/02/19 16:31:35 kanungo Exp kanungo $";
 
